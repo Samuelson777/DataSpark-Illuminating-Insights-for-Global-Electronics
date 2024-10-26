@@ -1,4 +1,11 @@
 # DataSpark-Illuminating-Insights-for-Global-Electronics
+## Introduction
+This project, titled "DataSpark: Illuminating Insights for Global Electronics," is 
+a data analytics initiative for a company called Global Electronics, a leading 
+retailer of consumer electronics. The main goal is to conduct a comprehensive 
+Exploratory Data Analysis (EDA) to uncover valuable insights from the 
+company's data and provide actionable recommendations to enhance customer 
+satisfaction, optimize operations, and drive overall business growth.
 ## Domain
 Retail Analytics in the Electronics Industry
 ## SKILL-TAKEAWAY
@@ -12,7 +19,7 @@ Retail Analytics in the Electronics Industry
 # Business Use Cases:
 By analyzing Global Electronics' customer, product, sales, and store data, we aim to identify key insights that will enhance marketing strategies,
 optimize inventory management, and improve sales forecasting. This will help tailor marketing campaigns, develop better products, plan effective promotions,
-and decide on store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies.
+and decide store expansions and optimizations. Additionally, understanding the impact of currency exchange rates on sales will allow for better international pricing strategies.
 Overall, these insights will help Global Electronics increase customer satisfaction and drive business growth.
 ## Approach:
 ## Data Cleaning and Preparation
@@ -48,3 +55,5 @@ Geographical Analysis: Analyze sales by store location to identify high-performi
 
 ## Results: 
 Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
+
+## Project Explanation Youtube link: https://youtu.be/IjAlNNgIOpc?si=-N1_Pa8DFlNOhgLQ
