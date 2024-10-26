@@ -56,4 +56,4 @@ Geographical Analysis: Analyze sales by store location to identify high-performi
 ## Results: 
 Upon completion of the project, learners are expected to deliver a comprehensive Exploratory Data Analysis (EDA) report for Global Electronics, featuring clean and integrated datasets, in-depth insights into customer demographics, purchasing behaviors, product performance, store operations, and currency impact on sales. The report will include visually compelling visualizations and actionable recommendations tailored to enhance marketing strategies, optimize inventory management, improve sales forecasting, guide product development, and inform store expansion and operational decisions. This analysis will empower Global Electronics to increase customer satisfaction, maximize revenue, and drive overall business growth.
 
-#### Project Explanation Youtube link: https://youtu.be/IjAlNNgIOpc?si=-N1_Pa8DFlNOhgLQ
+### Project Explanation Youtube link: https://youtu.be/IjAlNNgIOpc?si=-N1_Pa8DFlNOhgLQ
